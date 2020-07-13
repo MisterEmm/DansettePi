@@ -26,6 +26,6 @@ It also displays the corresponding station icon from the "icons" folder.
 
 To control the volume from Python we need to create an audio mixer, in this case called "Master".
 
-We create this by saving the ".asoundrc" file into the /home/pi/ folder.
+We create this by saving the "asoundrc" file into the /home/pi/ folder, changing its name to ".asoundrc"
 
 VLC needs to be set to only allow one instance.
