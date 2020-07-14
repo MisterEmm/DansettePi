@@ -9,7 +9,7 @@ More details of the project can be found at:
 
 Instructables: https://www.instructables.com/id/1964-Dansette-Pi-Internet-Radio
 
-Hackster:
+Hackster: https://www.hackster.io/martin-mander/1964-dansette-pi-internet-radio-1b0d1e
 
 YouTube: https://youtu.be/98O8wwiskhk
 
