@@ -7,7 +7,7 @@ Information
 
 More details of the project can be found at:
 
-Instructables: 
+Instructables: https://www.instructables.com/id/1964-Dansette-Pi-Internet-Radio
 
 Hackster:
 
